@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 /node_modules
 node_modules/
 frontend/node_modules/
 .env
+=======
+node_modules
+**frontend/node_modules
+>>>>>>> daaa1a92dd8443a78123e26da4a829f60e1fc69f
